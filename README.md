@@ -1,5 +1,5 @@
 # CRUD-LOG-SPRING-MYSQL
-tv-show tracker<br>
+### tv-show tracker<br>
 Proyecto Crud cuenta con register/login, cuenta con Bcrypt para el hash de las passwords. Se utilizó Spring Boot - Mysql - Bootstrap.
 Se pueden agregar tv-shows con su respectiva cadena para organizarlas, además de poder rankear con números (1-5), cada acción tiene vista propia a excepción del delete. Se puede acceder al show donde entrega su información. Cuenta con vinculos de logout y add show.
 
